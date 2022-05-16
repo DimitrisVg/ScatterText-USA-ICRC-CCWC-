@@ -1,4 +1,4 @@
-# ScatterText-USA-ICRC-CCWC-
+# ScatterText Visualization for the ICRC and the USA in the CCWC
 Creation of a ScatterText visualization comparing the use of language of the representatives of the ICRC and the US
 
 This is the code that was produced for the subject of "Political Speech Analysis" during my masters in the [University of Athens](https://en.uoa.gr/).\
